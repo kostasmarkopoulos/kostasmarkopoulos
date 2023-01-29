@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kostas Markopoulos</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from Greece</h3>
 
 - 🌱 I’m currently studying **at the International Hellenic University for a Bc's degree in Computer Science**
 
