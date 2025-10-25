@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **at the International Hellenic University for a Bc's degree in Computer Science**
 
-- 👨‍💻 I'm intersted in **cybersecurity,cloud computing and software development**
+- 👨‍💻 I'm intersted in **cybersecurity,cloud computing**
 
 - 📫 How to reach me **kostasmark000@gmail.com**
 
