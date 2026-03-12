@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently finished **My Bc's degree in Computer Science at the Democritus Univercity of Thrace**
 
-- 👨‍💻 I'm intersted in **cybersecurity,cloud computing**
+- 👨‍💻 I'm intersted in **cybersecurity,cloud Engineering**
 
 - 📫 How to reach me **kostasmark000@gmail.com**
 
